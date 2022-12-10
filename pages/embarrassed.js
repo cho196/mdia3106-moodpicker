@@ -259,9 +259,10 @@ export default function Embarrassed() {
               <MainBox>
                 <h3>Laugh at yourself!</h3>
                 <p>
-                  Let's be real, how funny is it that this occurence happened?
-                  We can make light of things like this by giving ourselves
-                  permission to laugh. We all make mistakes! We're human.
+                  Let&apos;s be real, how funny is it that this occurence
+                  happened? We can make light of things like this by giving
+                  ourselves permission to laugh. We all make mistakes!
+                  We&apos;re human.
                 </p>
                 <SmallButton
                   onClick={() => {
@@ -283,8 +284,8 @@ export default function Embarrassed() {
                 <h3>Accept it as a learning experience</h3>
                 <p>
                   Life lessons are best learned through mistakes — as much as it
-                  sucks, it's nice to know that this occurence probably won't
-                  happen every again.
+                  sucks, it&apos;s nice to know that this occurence probably
+                  won&apos;t happen every again.
                 </p>
                 <SmallButton
                   onClick={() => {

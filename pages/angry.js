@@ -261,9 +261,10 @@ export default function Angry() {
               <MainBox>
                 <h3>Reach out once you&apos;ve calmed down</h3>
                 <p>
-                  A listening ear can be extremely helpful, but when we're in
-                  the heat of anger, it&apos;s hard for our friends to support
-                  us. Try to take some time alone first to gather your thoughts!
+                  A listening ear can be extremely helpful, but when we&apos;re
+                  in the heat of anger, it&apos;s hard for our friends to
+                  support us. Try to take some time alone first to gather your
+                  thoughts!
                 </p>
                 <SmallButton
                   onClick={() => {
