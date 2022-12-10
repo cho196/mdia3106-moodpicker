@@ -2,7 +2,7 @@
   "name": "final-proj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "pages/index.js",
+  "homepage": "pages/indexPage.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
