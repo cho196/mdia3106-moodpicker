@@ -6,8 +6,6 @@ import background from "../public/background.json";
 import { motion } from "framer-motion";
 import sad from "../public/sad.json";
 import friends from "../public/friends.json";
-import camera from "../public/camera.json";
-import help from "../public/help.json";
 import hobby from "../public/hobby.json";
 import feels from "../public/feels.json";
 import music from "../public/music.json";
@@ -217,9 +215,9 @@ export default function Sad() {
                 <h3>Talk to a trusted friend or family member</h3>
                 <p>
                   The people closest to you are the ones that will be there for
-                  you during these hard times. Don't feel guilty about reaching
-                  out! They will appreciate that you trust their input and
-                  company.
+                  you during these hard times. Don&apos;t feel guilty about
+                  reaching out! They will appreciate that you trust their input
+                  and company.
                 </p>
                 <SmallButton
                   onClick={() => {
@@ -240,11 +238,11 @@ export default function Sad() {
               <MainBox>
                 <h3>Allow yourself to feel sad</h3>
                 <p>
-                  Our instincts when we're sad are to block away these emotions
-                  and make them go away as soon as possible. However, doing so
-                  brushes these feelings aside, making them even harder to cope
-                  with in the future. Allow yourself to feel sad and notice how
-                  your body responds to this natural emotion!
+                  Our instincts when we&apos;re sad are to block away these
+                  emotions and make them go away as soon as possible. However,
+                  doing so brushes these feelings aside, making them even harder
+                  to cope with in the future. Allow yourself to feel sad and
+                  notice how your body responds to this natural emotion!
                 </p>
                 <SmallButton
                   onClick={() => {

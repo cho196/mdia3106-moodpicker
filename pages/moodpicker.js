@@ -1,10 +1,8 @@
 import { useRouter } from "next/router";
 import styled from "styled-components";
 import Lottie from "lottie-react";
-import { useState } from "react";
 import background from "../public/background.json";
 import { motion } from "framer-motion";
-import waveUp from "../public/wave-up.json";
 import happy from "../public/happy.json";
 import embarrassed from "../public/embarrassed.json";
 import angry from "../public/angry.json";

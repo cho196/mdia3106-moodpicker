@@ -138,8 +138,8 @@ export default function Angry() {
           <MainBox>
             <h2>Angry</h2>
             <p>
-              Ugh! Sometimes things can make you feel so annoyed! It's ok to
-              feel angry sometimes. Anger is a natural response to when our
+              Ugh! Sometimes things can make you feel so annoyed! It&apos;s ok
+              to feel angry sometimes. Anger is a natural response to when our
               needs and expectations are not met. Here are some ways to get
               through an angry moment.
             </p>
@@ -175,7 +175,7 @@ export default function Angry() {
                 >
                   <MiniCard>
                     <Lottie animationData={help}></Lottie>
-                    <p>Ask for advice after you've calmed down</p>
+                    <p>Ask for advice after you&apos;ve calmed down</p>
                   </MiniCard>
                 </motion.div>
                 <motion.div
@@ -238,9 +238,9 @@ export default function Angry() {
                 <h3>Practice mindful breathing</h3>
                 <p>
                   Mindful breathing is a great way to lower your heart rate and
-                  calm down your rage. Sometimes we say things we don't mean
-                  when we're angry, so try mindful breathing the next time you
-                  catch yourself extremely agitated!
+                  calm down your rage. Sometimes we say things we don&apos;t
+                  mean when we&apos;re angry, so try mindful breathing the next
+                  time you catch yourself extremely agitated!
                 </p>
                 <SmallButton
                   onClick={() => {
@@ -259,11 +259,11 @@ export default function Angry() {
               transition={{ duration: 1, ease: "easeOut" }}
             >
               <MainBox>
-                <h3>Reach out once you've calmed down</h3>
+                <h3>Reach out once you&apos;ve calmed down</h3>
                 <p>
                   A listening ear can be extremely helpful, but when we're in
-                  the heat of anger, it's hard for our friends to support us.
-                  Try to take some time alone first to gather your thoughts!
+                  the heat of anger, it&apos;s hard for our friends to support
+                  us. Try to take some time alone first to gather your thoughts!
                 </p>
                 <SmallButton
                   onClick={() => {

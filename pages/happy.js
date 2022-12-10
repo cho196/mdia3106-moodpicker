@@ -136,10 +136,10 @@ export default function Happy() {
             <h2>Happy</h2>
             <p>
               Congratulations! Happy is a nice feeling emotion, and we love to
-              feel happy, so there's not much to do in terms of coping. However,
-              it's important to remember that we don't always have to feel
-              happy. In the meantime, check out the activities below to bask in
-              the wonderful happy moments!
+              feel happy, so there&apos;s not much to do in terms of coping.
+              However, it&apos;s important to remember that we don&apos;t always
+              have to feel happy. In the meantime, check out the activities
+              below to bask in the wonderful happy moments!
             </p>
             <StyledButton onClick={() => setShowMoments(true)}>
               Show Happy Day Activities
@@ -236,9 +236,9 @@ export default function Happy() {
                 <h3>Take videos of your happy moments</h3>
                 <p>
                   Sometimes we wish we could look back on the good times. As
-                  much as it is important to enjoy and live in the moment, don't
-                  forget to record your happy moments every now and then for
-                  some tangible memories!
+                  much as it is important to enjoy and live in the moment,
+                  don&apos;t forget to record your happy moments every now and
+                  then for some tangible memories!
                 </p>
                 <SmallButton
                   onClick={() => {
@@ -284,8 +284,8 @@ export default function Happy() {
                 <h3>Use your happy energy for hobbies!</h3>
                 <p>
                   Happy energy often means creative, inspired and imaginative
-                  energy. Try out that hobby you've been eyeing for the past
-                  month!
+                  energy. Try out that hobby you&apos;ve been eyeing for the
+                  past month!
                 </p>
                 <SmallButton
                   onClick={() => {
