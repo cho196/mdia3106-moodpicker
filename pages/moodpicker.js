@@ -66,7 +66,7 @@ export default function MoodPicker() {
       <Content>
         <StyledButton
           onClick={() => {
-            r.push("/");
+            r.push("/indexPage");
           }}
         >
           Back To Home
