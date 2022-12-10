@@ -5,7 +5,6 @@ import { useState, useEffect } from "react";
 import background from "../public/background.json";
 import { motion } from "framer-motion";
 import angry from "../public/angry.json";
-import { Main } from "next/document";
 import friends from "../public/friends.json";
 import camera from "../public/camera.json";
 import help from "../public/help.json";
