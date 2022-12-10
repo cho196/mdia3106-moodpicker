@@ -63,7 +63,7 @@ export default function Story() {
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.9 }}
         >
-          <StyledButton>Let's Start!</StyledButton>
+          <StyledButton>Let&apos;s Start!</StyledButton>
         </motion.div>
         {wave && (
           <Lottie
